@@ -43,7 +43,6 @@ What's missing in the example:
 ## Support
 
 For general support and questions, please use [StackOverflow](http://stackoverflow.com/questions/tagged/sonata).
-
 If you think you found a bug or you have a feature idea to propose, feel free to open an issue
 **after looking** at the [contributing guide](CONTRIBUTING.md).
 
